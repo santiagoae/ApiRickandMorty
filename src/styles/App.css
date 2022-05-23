@@ -1,0 +1,23 @@
+#head .navbar{
+  padding: 15px 30px 15px 30px  ;
+}
+#head a{
+  color: white;
+}
+
+#resultado .card{
+  margin-top: 20px;
+     
+}
+
+#resultado .cardResidents p{  
+  font-size: 0.8em;
+  text-align: center;  
+}
+
+.navButtons{  
+  margin-top: 40px;  
+}
+
+
+
